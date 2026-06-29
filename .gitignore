@@ -1,0 +1,36 @@
+# Rust
+
+backend/target/
+backend/Cargo.lock
+
+# SQLite Database
+
+backend/database.db
+
+# Environment files
+
+.env
+.env.local
+
+# Node.js
+
+frontend/node_modules/
+
+# Next.js
+
+frontend/.next/
+frontend/out/
+
+# Logs
+
+*.log
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
