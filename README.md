@@ -96,7 +96,7 @@ Costracker/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Costracker.git
+git clone https://github.com/RustySnake99/Costracker.git
 cd Costracker
 ```
 
@@ -142,24 +142,6 @@ http://localhost:3000
 | POST   | `/transactions`     | Create a new transaction       |
 | PUT    | `/transactions/:id` | Update an existing transaction |
 | DELETE | `/transactions/:id` | Delete a transaction           |
-
----
-
-## 📸 Screenshots
-
-> Add screenshots of your application here.
-
-### Dashboard
-
-```text
-[screenshot here]
-```
-
-### Transactions Page
-
-```text
-[screenshot here]
-```
 
 ---
 
